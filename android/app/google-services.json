@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "922749107874",
+    "project_id": "sweet-treats-b5450",
+    "storage_bucket": "sweet-treats-b5450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922749107874:android:98511f215c726e338ce1fb",
+        "android_client_info": {
+          "package_name": "com.example.online_bakery_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922749107874-ghn5q7rcmhb4lb7ulgpn3qemcls7np9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.online_bakery_shop",
+            "certificate_hash": "bee95b30d9074418b164b98cbece11a6339533a2"
+          }
+        },
+        {
+          "client_id": "922749107874-ddfur3ljfovdk5hgj1c1qtq4kgv24msa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtuAnJvMP5-V7aTYeoqinrbE5faObz2yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922749107874-ddfur3ljfovdk5hgj1c1qtq4kgv24msa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
